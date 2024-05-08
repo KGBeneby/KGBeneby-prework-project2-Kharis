@@ -1,0 +1,28 @@
+.title {
+    text-align: center;
+    color: blue;
+}
+.photo{
+    width: 400px;
+}
+.photo h3, p{
+    padding: 5px;
+}
+.date{
+    float: right;
+}
+img{
+    width: inherit;
+}
+h3{
+    height: 7px;
+    margin-top: 1px;
+    position: relative;
+    top: 50px;
+}
+body{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
